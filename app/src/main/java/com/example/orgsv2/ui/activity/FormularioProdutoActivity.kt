@@ -10,6 +10,7 @@ import com.example.orgsv2.model.Produto
 import java.math.BigDecimal
 
 class FormularioProdutoActivity : AppCompatActivity(R.layout.activity_formulario_produto) {
+    // Utilizando o ViewBiding
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
